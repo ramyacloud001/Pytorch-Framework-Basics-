@@ -57,7 +57,7 @@ follow = https://pytorch.org/tutorials/beginner/blitz/autograd_tutorial.html
 
 ## Support
 
-For support, email saikamal9797@gmail.com or join my telegram channel https://t.me/+45TxMt6tkfplYjJl.
+For support, email ramyasri.adepu1601@gmail.com
 
 
 ## Running Tests
